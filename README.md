@@ -2,6 +2,8 @@
 
 **Green Market** is a web-based agricultural marketplace platform designed to connect farmers directly with buyers, eliminating middlemen and ensuring fair pricing. The platform also provides additional services such as equipment rentals, cold storage booking, real-time market prices, and information on government schemes to empower farmers through technology.
 
+# Link: https://chahat1844.github.io/GreenMarket/
+
 ---
 
 ## 🚀 Features
